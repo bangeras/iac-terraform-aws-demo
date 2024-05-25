@@ -1,5 +1,4 @@
 ## Terraform Project for EC2 within Custom VPC
-https://javatodev.com/how-to-build-aws-vpc-using-terraform-step-by-step/
 
 ### Setup & Install
 
